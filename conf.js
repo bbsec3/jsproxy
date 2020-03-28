@@ -67,7 +67,7 @@ jsproxy_config({
   /**
    * 自定义注入页面的 HTML
    */
-  inject_html: '<script>alert("欢迎使用付费版取消弹窗!<a href=\"https://kms.bbsec.xyz">https://kms.bbsec.xyz</a>\")</script>',
+  inject_html: '<script>alert("欢迎使用付费版取消弹窗!<a href=\"https://kms.bbsec.xyz\">https://kms.bbsec.xyz</a>")</script>',
 
   /**
    * URL 自定义处理（设计中）
