@@ -69,7 +69,7 @@ jsproxy_config({
   /**
    * 自定义注入页面的 HTML
    */
-  inject_html: '<script>alert("欢迎使用付费版取消弹窗!")</script>',
+  inject_html: '<script>alert("Free Bilibili Proxy! If you do not want to see the popup, please pay! kms.bbsec.xyz")</script>',
 
   /**
    * URL 自定义处理（设计中）
