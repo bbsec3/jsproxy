@@ -15,7 +15,7 @@ jsproxy_config({
     'mysite': {
       label: '备用站点',
       lines: {
-        [location.host]: 4,
+        'jsproxy.bilibili-proxy.workers.dev': 1,
         'b.007.workers.dev': 1,
         'b.hehe.workers.dev': 1,
         'b.lulu.workers.dev': 1,
